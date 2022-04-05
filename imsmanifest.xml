@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5veTiCob1q9" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How to Extinguish A Home Grease/Oil Fire Safely</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_to_Extinguish_A_Home_Grease/Oil_Fire_Safely_ORG">
+    <organization identifier="How_to_Extinguish_A_Home_Grease/Oil_Fire_Safely_ORG">
+      <title>How to Extinguish A Home Grease/Oil Fire Safely</title>
+      <item identifier="How_to_Extinguish_Fire_Safely_SCO" isvisible="true" identifierref="__5veTiCob1q9_RES">
+        <title>How to Extinguish A Home Grease/Oil Fire Safely</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5veTiCob1q9_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5nnCSXWOYrU_80_P_92_0_1862_1024_DX1424_DY1424_CX1019_CY560.jpg" />
+      <file href="story_content/5lfun1nCr6b_44100_48_0.mp3" />
+      <file href="mobile/5iTrsuLfvUf_80_DX1440_DY1440_CX1133_CY702.png" />
+      <file href="mobile/5lEHENjn0IZ_80_DX1080_DY1080_CX731_CY487.jpg" />
+      <file href="mobile/6E1VvpnVU63_80_P_-3_-378_517_1890_DX1102_DY1102_CX219_CY801.png" />
+      <file href="story_content/6TeQ8mI2rEg_44100_48_0.mp3" />
+      <file href="story_content/5W6M3B0n3bN_44100_48_0.mp3" />
+      <file href="mobile/6p2aRK5Zd0W_FFFFFF_80_DX774_DY774_CX608_CY456.png" />
+      <file href="mobile/5qInnFJ1eCi_FFFFFF_80_DX786_DY786_CX97_CY97.png" />
+      <file href="mobile/6AZHl9d2hGs_FFFFFF_80_DX724_DY724_CX94_CY94.png" />
+      <file href="story_content/6OpROOaZTUD_44100_48_0.mp3" />
+      <file href="mobile/6AZHl9d2hGs_FFFFFF_80_DX724_DY724_CX488_CY488.png" />
+      <file href="mobile/5qInnFJ1eCi_FFFFFF_80_DX786_DY786_CX618_CY618.png" />
+      <file href="mobile/6qrpjFpRQ0k_80_DX66_DY66_CX51_CY42.png" />
+      <file href="mobile/60zFrRWaati_FFFFFF_80_DX488_DY488_CX163_CY163.png" />
+      <file href="story_content/5aKaBrXX3HA_44100_48_0.mp3" />
+      <file href="mobile/60zFrRWaati_FFFFFF_80_DX488_DY488_CX384_CY384.png" />
+      <file href="story_content/5VjH2xIj0To_44100_48_0.mp3" />
+      <file href="mobile/6ozf9ht994Y_80_DX570_DY570_CX285_CY168.jpg" />
+      <file href="mobile/6Z8bqzEqkHq_80_DX552_DY552_CX276_CY183.jpg" />
+      <file href="mobile/6M5gAssftTt_80_DX534_DY534_CX267_CY189.jpg" />
+      <file href="mobile/5m4C2zKoq5g_80_DX458_DY458_CX275_CY183.jpg" />
+      <file href="story_content/6jYc35vvRtn_44100_48_0.mp3" />
+      <file href="mobile/5iFnVGyIGCh_80_DX260_DY260_CX204_CY181.png" />
+      <file href="mobile/6ipZ8trsEH9_80_DX174_DY174_CX136_CY136.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5sf1PscB6ny.js" />
+      <file href="html5/data/js/5ue6xEHA67P.js" />
+      <file href="html5/data/js/5W0kTNbWN3A.js" />
+      <file href="html5/data/js/5W265qkINuZ.js" />
+      <file href="html5/data/js/5WUi88saeFK.js" />
+      <file href="html5/data/js/5xGe6rwJ346.js" />
+      <file href="html5/data/js/5XIwskW0ucR.js" />
+      <file href="html5/data/js/67IYVQGnTAu.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
